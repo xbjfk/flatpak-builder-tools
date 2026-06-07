@@ -1,0 +1,9 @@
+README.md
+flatpak_cargo_generator.py
+pyproject.toml
+flatpak_cargo_generator.egg-info/PKG-INFO
+flatpak_cargo_generator.egg-info/SOURCES.txt
+flatpak_cargo_generator.egg-info/dependency_links.txt
+flatpak_cargo_generator.egg-info/entry_points.txt
+flatpak_cargo_generator.egg-info/requires.txt
+flatpak_cargo_generator.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+flatpak_cargo_generator

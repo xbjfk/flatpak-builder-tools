@@ -1,0 +1,2 @@
+[console_scripts]
+flatpak-cargo-generator = flatpak_cargo_generator:main

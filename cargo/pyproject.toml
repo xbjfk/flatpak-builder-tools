@@ -14,10 +14,11 @@ dependencies = [
     "tomlkit>=0.13.3,<1.0"
 ]
 
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.6.7"
-mypy = "^1.11.2"
-types-pyyaml = "^6.0.12"
+[project.scripts]
+flatpak-cargo-generator = "flatpak_cargo_generator:main"
+
+[tool.setuptools]
+py-modules = ["flatpak_cargo_generator"]
 
 [tool.ruff]
 line-length = 88
